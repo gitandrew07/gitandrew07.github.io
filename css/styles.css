@@ -1,0 +1,49 @@
+@font-face {
+    font-family: "FatMarker";
+    src: url(../misc/FatMarker.ttf);
+}
+
+body {
+    background-color: deepskyblue;
+}
+
+h1 {
+    font-family: "FatMarker";
+    text-align: center;
+}
+
+p {
+    font-family: "FatMarker";
+}
+
+.contacttext {
+    text-align: center;
+}
+
+a {
+    font-family: "FatMarker";
+}
+
+.greet {
+    font-family: "FatMarker";
+    position: fixed;
+    bottom: 10px;
+}
+
+.title {
+    position: absolute;
+    margin: 0;
+    border: 0;
+    top: 20%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+
+.gif {
+    position: absolute;
+    margin: 0;
+    border: 0;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
