@@ -1,0 +1,14 @@
+body {
+    background-image: url(../imgs/clouds.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.links {
+    text-decoration: none;
+    color: darkblue;
+}
+
+div {
+    text-align: center;
+}
