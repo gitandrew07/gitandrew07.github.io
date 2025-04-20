@@ -10,6 +10,18 @@ body {
     color: darkblue;
 }
 
-div {
+.container {
+    text-align: center;
+}
+
+.grid {
+    margin: auto;
+    display: inline-grid;
+    grid-template-rows: repeat(3, auto);
+    grid-template-columns: repeat(3, auto);
+    column-gap: 50px;
+}
+
+.element {
     text-align: center;
 }
