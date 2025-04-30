@@ -1,5 +1,5 @@
 body {
-    background-image: url(../imgs/clouds.png);
+    background-image: url(../imgs/bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -7,7 +7,7 @@ body {
 
 .links {
     text-decoration: none;
-    color: darkblue;
+    color: blue;
 }
 
 .container {
