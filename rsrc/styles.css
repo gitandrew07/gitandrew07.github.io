@@ -1,8 +1,6 @@
 body {
-    background-image: url(../imgs/bg.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
+    background-image: url(../imgs/mut.png);
+    background-color: skyblue;
 }
 
 .links {
